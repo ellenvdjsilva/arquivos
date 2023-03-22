@@ -1,2 +1,2 @@
-# arquivos
-Manipulando arquivos com Python
+# Manipulação de arquivos
+Manipulando arquivos com Python e Nodejs
