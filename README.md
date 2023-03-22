@@ -1,2 +1,2 @@
 # arquivos
-Criando arquivos usando Python
+Manipulando arquivos com Python
